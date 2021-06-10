@@ -20,4 +20,4 @@ Command
 
  ```http://127.0.0.1:1000/  ``` or ```http://localhost:1000/```
 
-## Now enjoy the newly shorted link created 🔗
+## Now enjoy the newly created shorted link 🔗
